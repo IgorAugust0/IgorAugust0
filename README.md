@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAugust0)](https://github.com/anuraghazra/github-readme-stats)
 ![snake gif](https://github.com/IgorAugust0/IgorAugust0/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
