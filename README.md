@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAugust0&theme=tokyonight&show_icons=true&count_private=true)
-![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <a href="https://github.com/IgorAugust0/IgorAugust0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAugust0&theme=tokyonight&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
