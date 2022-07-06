@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAugust0&theme=tokyonight&show_icons=true&count_private=true)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAugust0&layout=compact&theme=tokyonight) -->
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAugust0&show_icons=true&theme=tokyonight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+</span>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAugust0&layout=compact&theme=tokyonight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
+</span>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
