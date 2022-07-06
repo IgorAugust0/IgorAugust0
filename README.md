@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAugust0&show_icons=true&theme=tokyonight" alt="Github Stats" height=175/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAugust0&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" height=175/>
 </span>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
