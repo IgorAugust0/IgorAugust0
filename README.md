@@ -1,11 +1,11 @@
 ### Hey, I'm Igor 👋
 
-I'm a **Full-Stack Developer** who loves to bring ideas to life, and it's always excited in designing and developing websites/applications that are **fast**, **responsive**, and **accessible** to everyone. Also, design-wise, I love minimalism combined with efficiency. I think its cool. 😎
+I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love creating websites/apps that are **fast**, **responsive**, and **accessible**. Minimalist design with a simple but efficient code is my style. It's pretty cool, right? 😎
 
-- 👨‍🎓 Currently undegrad student @ UFU
+- 👨‍🎓 Undergrad student @ UFU
 - 🍀 Currently learning about data science
-- 💼 Want to get in contact? You can find me at my <a href="https://igor-augusto.vercel.app/">website.</a>
-- 💬 Curious? Just ask!
+- 💼 Let's connect on my <a href="https://igor-augusto.vercel.app/">website.</a>
+- 💬 Got a question? Just ask!
 
 [![Spring Boot - Dark](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)
 [![TypeScript - Dark](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)
@@ -29,8 +29,9 @@ I'm a **Full-Stack Developer** who loves to bring ideas to life, and it's always
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&hide_border=true&theme=dark" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats-igor.vercel.app/?user=IgorAugust0&theme=dark&hide_border=true&ring=79FF97&fire=79FF97&currStreakLabel=79FF97&dates=9F9F9F&background=151515" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&hide_border=true&theme=dark" alt="Igor's Stats" height="165">
+    <img src="https://github-readme-streak-stats-igor.vercel.app/?user=IgorAugust0&theme=dark&hide_border=true&ring=79FF97&fire=79FF97&currStreakLabel=79FF97&dates=9F9F9F&background=151515" alt="Igor's Streak" height="165">
+    <!--<img src="https://github-readme-stats-igor.vercel.app/api/top-langs/?username=IgorAugust0&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,prolog,html,css" alt="Igor's Langs" height="165">-->
   </p>
 </div>
 
