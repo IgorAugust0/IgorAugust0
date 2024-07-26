@@ -31,7 +31,7 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
   <p align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&hide_border=true&theme=dark"
+        srcset="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&hide_border=true&theme=dark&title_color=79FF97"
         media="(prefers-color-scheme: dark)"
       />
       <source
