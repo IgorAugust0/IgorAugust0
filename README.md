@@ -35,10 +35,10 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&theme=default"
+        srcset="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&theme=default" alt="Igor's Stats" height="165" />
+      <img src="https://github-readme-stats-igor.vercel.app/api?username=IgorAugust0&show_icons=true&theme=vue" alt="Igor's Stats" height="165" />
     </picture>
     <picture>
       <source
@@ -46,7 +46,7 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-streak-stats-igor.vercel.app?user=IgorAugust0&hide_border=true&ring=4C71F2&fire=4C71F2&currStreakLabel=4C71F2&dates=9F9F9F&background=FFFEFE"
+        srcset="https://github-readme-streak-stats-igor.vercel.app/?user=IgorAugust0&hide_border=true&ring=41B883&fire=41B883&currStreakLabel=41B883&dates=9F9F9F&background=FFFEFE"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-streak-stats-igor.vercel.app?user=IgorAugust0&hide_border=true&ring=4C71F2&fire=4C71F2&currStreakLabel=4C71F2&dates=9F9F9F&background=FFFEFE" alt="Igor's Streak" height="165" />
@@ -54,7 +54,6 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
     <!--<img src="https://github-readme-stats-igor.vercel.app/api/top-langs/?username=IgorAugust0&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,prolog,html,css" alt="Igor's Langs" height="165">-->
   </p>
 </div>
-
 
 ## 🐍 Snake!
 ![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
