@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love creating websites/apps that are **fast**, **responsive**, and **accessible**. Minimalist design with a simple but efficient code is my style. It's pretty cool, right? 😎
 
 - 👨‍🎓 Undergrad student @ UFU
-- 🍀 Currently learning about data science
+- 🍀 Currently learning about Microservices and Message Queues in Distributed Systems
 - 💼 Let's connect on my <a href="https://igor-augusto.vercel.app/">website.</a>
 - 💬 Got a question? Just ask!
 
