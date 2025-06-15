@@ -7,16 +7,18 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
 - 💼 Let's connect on my <a href="https://igor-augusto.vercel.app/">website.</a>
 - 💬 Got a question? Just ask!
 
-[![Spring Boot - Dark](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)
+[![.NET - Dark](https://img.shields.io/badge/-.NET%20-000000?style=flat&logo=dotnet#gh-dark-mode-only)](https://img.shields.io/badge/-.NET%20-000000?style=flat&logo=dotnet#gh-dark-mode-only)
+[![PostgreSQL - Dark](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql#gh-dark-mode-only)](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql#gh-dark-mode-only)
+[![Python - Dark](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)
 [![TypeScript - Dark](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)
+[![Node.js - Dark](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)
 [![React - Dark](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)
 [![Next.js - Dark](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)
-[![PostgreSQL - Dark](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql#gh-dark-mode-only)](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql#gh-dark-mode-only)
-[![Node.js - Dark](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)
-[![Tailwind - Dark](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)
-[![Python - Dark](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)
-[![SwiftUI - Dark](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)
-[![Framer Motion - Dark](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer#gh-dark-mode-only)](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer#gh-dark-mode-only)
+[![Kubernetes - Dark](https://img.shields.io/badge/-Kubernetes%20-000000?style=flat&logo=kubernetes#gh-dark-mode-only)](https://img.shields.io/badge/-Kubernetes%20-000000?style=flat&logo=kubernetes#gh-dark-mode-only)
+<!--[![Spring Boot - Dark](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)-->
+<!--[![Tailwind - Dark](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)-->
+<!--[![SwiftUI - Dark](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)-->
+<!--[![Framer Motion - Dark](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer#gh-dark-mode-only)](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer#gh-dark-mode-only)-->
 <!--[![TypeScript - Light](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6#gh-light-mode-only)](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6#gh-light-mode-only)-->
 
 ## 📈 My stats
@@ -55,7 +57,7 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
   </p>
 </div>
 
-## 🐍 Snake!
+## 🐍 My contributions!
 ![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/IgorAugust0/IgorAugust0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--![](https://komarev.com/ghpvc/?username=IgorAugust0)-->
