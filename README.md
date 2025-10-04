@@ -12,9 +12,10 @@ I'm a **Full-Stack Developer** passionate about bringing ideas to life. I love c
 [![Python - Dark](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)](https://img.shields.io/badge/-Python-000000?style=flat&logo=python#gh-dark-mode-only)
 [![TypeScript - Dark](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript#gh-dark-mode-only)
 [![Node.js - Dark](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js#gh-dark-mode-only)
-[![React - Dark](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)
-[![Next.js - Dark](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)
+[![Angular - Dark](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular#gh-dark-mode-only)](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular#gh-dark-mode-only)
 [![Kubernetes - Dark](https://img.shields.io/badge/-Kubernetes%20-000000?style=flat&logo=kubernetes#gh-dark-mode-only)](https://img.shields.io/badge/-Kubernetes%20-000000?style=flat&logo=kubernetes#gh-dark-mode-only)
+<!--[![Next.js - Dark](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js#gh-dark-mode-only)-->
+<!--[![React - Dark](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)](https://img.shields.io/badge/-React-000000?style=flat&logo=react#gh-dark-mode-only)-->
 <!--[![Spring Boot - Dark](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot#gh-dark-mode-only)-->
 <!--[![Tailwind - Dark](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css#gh-dark-mode-only)-->
 <!--[![SwiftUI - Dark](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift#gh-dark-mode-only)-->
